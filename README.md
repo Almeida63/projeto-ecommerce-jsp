@@ -88,7 +88,7 @@ Este é um projeto de e-commerce desenvolvido com **JSP**, **JDBC** e **Bootstra
 <br>
 
 <div align="center">
-  <p>Tela de Cadastros de Produtos/p>
+  <p>Tela de Cadastros de Produtos </p>
   <img src="https://github.com/user-attachments/assets/7f68f50a-4f7f-42e8-9066-4edb1f4a4ad4" alt="Tela de Cadastros de Produtos" width="500" />
 </div>
 
