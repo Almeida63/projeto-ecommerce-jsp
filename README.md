@@ -38,5 +38,5 @@ Este é um projeto de e-commerce desenvolvido com **JSP**, **JDBC** e **Bootstra
 
 <div align="center">
     <strong>Tela Produto</strong>  
-  <img src="https://github.com/Almeida63/projeto-ecommerce-jsp/issues/2#issue-2642044418" alt="Tela Produto" width="500" />
+    ![2](https://github.com/user-attachments/assets/cfda0830-9555-40cb-bc17-91713d41db29)
 </div>
