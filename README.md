@@ -31,7 +31,12 @@ Este é um projeto de e-commerce desenvolvido com **JSP**, **JDBC** e **Bootstra
 
 ## Imagens
 
-**Tela Inicial**  
 <div align="center">
+    <strong>Tela Inicial</strong>  
   <img src="https://github.com/user-attachments/assets/5b52b8e9-6cd5-4d21-a947-d127f6f8cbe1" alt="Tela Inicial" width="500" />
+</div>
+
+<div align="center">
+    <strong>Tela Produto</strong>  
+  <img src="https://github.com/Almeida63/projeto-ecommerce-jsp/issues/2#issue-2642044418" alt="Tela Produto" width="500" />
 </div>
